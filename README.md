@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/edgar-kalinovski" />][linkedin]
+[<img align="left" alt="EdgeSan | LinkedIn" width="22px" src="https://www.linkedin.com/in/edgar-kalinovski" />][linkedin]
 
 
 <br />

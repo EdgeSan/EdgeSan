@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="EdgeSan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?edgesan=melanieshi0120&show_icons=true&theme=radical" />
+  <img align="left" alt="EdgeSan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edgesan&show_icons=true&theme=radical" />
 
 
 </details>

@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 ### Hi there, I'm Edgar - aka [EdgeSan][website] 👋
 
-## I'm a Developer, System Administrator and a Student!!
+## I'm a Developer, System Administrator and a Student!
 
 - 🌱 I’m currently learning a lot of different IT things 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -38,8 +37,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="EdgeSan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EdgeSan&show_icons=true&hide_border=true" />
+  <img align="left" alt="EdgeSan's GitHub Stats" src="https://github-readme-stats.edgesan.vercel.app/api?username=EdgeSan&show_icons=true&hide_border=true" />
 
 </details>
-
-[linkedin]: https://www.linkedin.com/in/edgar-kalinovski

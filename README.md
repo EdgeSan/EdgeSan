@@ -1,4 +1,4 @@
-### Hi there, I'm Edgar - aka [EdgeSan][website] 👋
+### Hi there, I'm Edgar - aka [EdgeSan] 👋
 
 ## I'm a Developer, System Administrator and a Student!
 

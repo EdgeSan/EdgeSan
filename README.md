@@ -1,12 +1,3 @@
-### Hi there, I'm Edgar - aka [EdgeSan] 👋
-
-## I'm a Developer, System Administrator and a Student!
-
-- 🌱 I’m currently learning a lot of different IT things 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn as much as possible
-- ⚡ Fun fact: I love to play football, hockey and play guitar
-
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/edgar-kalinovski)
